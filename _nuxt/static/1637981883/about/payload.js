@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about", {data:[{slug:"about"}],fetch:{},mutations:void 0});

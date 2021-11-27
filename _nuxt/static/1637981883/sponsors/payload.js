@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sponsors", {data:[{slug:"sponsors"}],fetch:{},mutations:void 0});
