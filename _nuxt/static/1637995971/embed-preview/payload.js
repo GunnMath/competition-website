@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/embed-preview", {data:[{}],fetch:{},mutations:void 0});
