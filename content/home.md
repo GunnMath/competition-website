@@ -1,14 +1,14 @@
 ---
 title: Welcome!
-description: "Gunn's second annual mathematics competition, hosted by dedicated high school students."
+description: "Gunn's third annual mathematics competition, hosted by dedicated high school students."
 
 ---
 
-Welcome to Gunn High School's annual mathematics competition! It was held on the date of March 4th, 2023.
+Welcome to Gunn High School's annual mathematics competition! It will be held at Gunn High School on the date of March 23rd, 2024.
 
 ## About
 
-The GMC was held by dedicated Gunn students from Gunn Math Circle.
+The GMC is held by dedicated Gunn students from Gunn Math Circle.
 
 The competition has **2 divisions**, A and B, so that competitors' skill levels are well matched. Division B will be for those who are relatively new to competition math and are generally taking a math class before calculus. Division A will be for those who are familiar with competition math, and will thus have harder problems.
 
@@ -25,7 +25,7 @@ The format of the tests is listed below.
 | Guts Round | 70 minutes | 3x8 |
 | Tiebreaker Round | 15 minutes | 3 | For Qualifiers |
 
-The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. This year, we will have multiple activities in the afternoon for students to choose from, including an esimathon. More details about the exact activities will be announced soon!
+The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. This year, we will have multiple activities in the afternoon for students to choose from, including an estimathon. More details about the exact activities will be announced soon!
 
 ## Difficulty
 
@@ -33,7 +33,7 @@ For Div. A, the difficulty of the problems will range from early AMC 10 to mid o
 
 ## Schedule
 
-The competition will run from 8:30 AM to 16:30 PM. **All times are in PST.**
+The competition will run from 8:30 AM to 16:30 PM. (All times are in PST.)
 
 | Event | Start Time | Duration (in mins) | End Time |
 | --- | --- | --- | --- |
@@ -51,4 +51,4 @@ The competition will run from 8:30 AM to 16:30 PM. **All times are in PST.**
 
 A huge thanks to our dedicated staff, who wrote problems and handled logistics!
 
-## 2023 Competition Sponsors
+## 2024 Competition Sponsors
