@@ -1,29 +1,29 @@
 sponsors:
-  - name: Wolfram Alpha
-    light_image: /wolfram.png
-    dark_image: /wolfram.png
-    link: https://www.wolframalpha.com/
-  - name: Jane Street
-    light_image: /janestreet.png
-    dark_image: /janestreet-white.png
-    link: https://www.janestreet.com/
-  - name: PTSA of PAUSD
-    light_image: /ptsa.png
-    dark_image: /ptsa-white.png
-    link: https://gunn.paloaltopta.org/
-  - name: AoPS
-    light_image: /aops.png
-    dark_image: /aops.png
-    link: https://artofproblemsolving.com/
-  - name: Thinkfund
-    light_image: /thinkfund.png
-    dark_image: /thinkfund.png
-    link: https://www.mitchellparkteenservices.org/thinkfund
-  - name: DRW
-    light_image: /drw.png
-    dark_image: /drw.png
-    link: https://drw.com/
-  - name: Leangap
-    light_image: /leangap.svg
-    dark_image: /leangap.svg
-    link: https://www.leangap.org/
+  # - name: Wolfram Alpha
+  #   light_image: /wolfram.png
+  #   dark_image: /wolfram.png
+  #   link: https://www.wolframalpha.com/
+  # - name: Jane Street
+  #   light_image: /janestreet.png
+  #   dark_image: /janestreet-white.png
+  #   link: https://www.janestreet.com/
+  # - name: PTSA of PAUSD
+  #   light_image: /ptsa.png
+  #   dark_image: /ptsa-white.png
+  #   link: https://gunn.paloaltopta.org/
+  # - name: AoPS
+  #   light_image: /aops.png
+  #   dark_image: /aops.png
+  #   link: https://artofproblemsolving.com/
+  # - name: Thinkfund
+  #   light_image: /thinkfund.png
+  #   dark_image: /thinkfund.png
+  #   link: https://www.mitchellparkteenservices.org/thinkfund
+  # - name: DRW
+  #   light_image: /drw.png
+  #   dark_image: /drw.png
+  #   link: https://drw.com/
+  # - name: Leangap
+  #   light_image: /leangap.svg
+  #   dark_image: /leangap.svg
+  #   link: https://www.leangap.org/
