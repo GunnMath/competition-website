@@ -3,7 +3,7 @@ title: Welcome!
 description: "Gunn's third annual mathematics competition, hosted by dedicated high school students."
 ---
 
-Welcome to Gunn High School's annual mathematics competition! It will be held at Gunn High School on the date of March 23rd, 2024. [REGISTER HERE!]( https://bit.ly/GMC24)
+Welcome to Gunn High School's annual mathematics competition! It will be held at Gunn High School on the date of **March 24th, 2024**. [REGISTER HERE!]( https://bit.ly/GMC24)
 
 ## About
 
