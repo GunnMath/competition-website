@@ -4,7 +4,11 @@ subtitle: March 30th, 2025 /// 8:30AM - 4:30PM /// Gunn High School
 description: "Gunn's fourth annual mathematics competition, hosted by dedicated high school students."
 ---
 
+<<<<<<< HEAD
 Welcome to Gunn High School's annual mathematics competition! It will be held at Gunn High School on the date of **March 30th, 2025**. [REGISTER HERE!](https://bit.ly/GMComp2025)
+=======
+Welcome to Gunn High School's annual mathematics competition! It will be held at Gunn High School on the date of March 23rd, 2024. [REGISTER HERE!]( https://bit.ly/GMC24)
+>>>>>>> parent of 291e080 (Update home.md)
 
 ## About
 
