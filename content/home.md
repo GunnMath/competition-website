@@ -1,30 +1,32 @@
 ---
-title: Welcome!
-description: "Gunn's third annual mathematics competition, hosted by dedicated high school students."
+title: GUNN MATH COMPETITION
+subtitle: March 30th, 2025 /// 8:30AM - 4:30PM /// Gunn High School
+description: "Gunn's fourth annual mathematics competition, hosted by dedicated high school students."
 ---
 
-Welcome to Gunn High School's annual mathematics competition! It will be held at Gunn High School on the date of **March 24th, 2024**. [REGISTER HERE!]( https://bit.ly/GMC24)
+Welcome to Gunn High School's annual mathematics competition! It will be held at Gunn High School on the date of **March 30th, 2025**. [REGISTER HERE!](https://bit.ly/GMComp2025)
 
 ## About
 
-The GMC is held by dedicated Gunn students from Gunn Math Circle.
+The fourth annual Gunn Math Competition is hosted by dedicated students from Gunn Math Circle and will be held at Gunn High School on Sunday, March 30th 2025.
 
-The competition has **2 divisions**, A and B, so that competitors' skill levels are well matched. Division B will be for those who are relatively new to competition math and are generally taking a math class before calculus. Division A will be for those who are familiar with competition math, and will thus have harder problems.
+## Divisions & Teams
+The competition has **2 divisions**, A and B. Division B will be for those who are relatively new to competition math and are generally taking a math class before calculus. Division A will be for those who are familiar with competition math, and will thus have harder problems. Participants who have qualified for the AIME must compete in Division A. 
 
-Students will compete in **teams of 4**. (Teams of 2 or 3 are okay as well, but they will be at a disadvantage during the team rounds as they have fewer people.) Students may compete individually, but we strongly encourage competing in teams to get the most out of the competition.
+Students will compete in **teams of 4**. (Teams of 2 or 3 are okay as well, but they will be at a disadvantage during the team rounds as they have fewer people). Students may compete individually, but we strongly encourage competing in teams to get the most out of the competition.
 
 ## Format
 
 The format of the tests is listed below.
 
-| Round | Time Limit | # of Problems | Notes |
+| Round | Time | # of Problems | Notes |
 | --- | --- | --- | --- | 
 | Individual Round | 60 minutes | 10  |
 | Team Round | 60 minutes | 15  |
 | Guts Round | 70 minutes | 3x8 |
-| Tiebreaker Round | 15 minutes | 3 | For Qualifiers |
+| Tiebreaker Round | 15 minutes | 3 | Qualifiers only! |
 
-The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. This year, we will have multiple activities in the afternoon for students to choose from, including an estimathon. More details about the exact activities will be announced soon!
+In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. This year, we will have multiple activities in the afternoon for students to choose from, including an Estimathon, plank countdown. More details about the exact activities will be announced soon!
 
 ## Difficulty
 
@@ -40,9 +42,9 @@ The competition will run from 8:30 AM to 16:30 PM. (All times are in PST.)
 | Individual Round | 9:30 | 60 | 10:40 |
 | Team Round | 10:40 | 60 | 12:00 |
 | Lunch | 12:10 | 60 | 13:00 |
-| Guts Round | 13:00 | 70 | 14:20 |
-| Activities / Tiebreaks | 14:30 | 75 | 15:45 |
-| Awards Ceremony | 16:00 | 30 | 16:30 |
+| Guts Round | 13:00 | 100 | 14:40 |
+| Activities / Tiebreaks | 14:45 | 75 | 16:00 |
+| Awards Ceremony | 16:10 | 30 | 16:40 |
 
 *For each test, we've allocated some extra time to get set-up and to read instructions.
 
@@ -50,4 +52,6 @@ The competition will run from 8:30 AM to 16:30 PM. (All times are in PST.)
 
 A huge thanks to our dedicated staff, who wrote problems and handled logistics!
 
-## 2024 Competition Sponsors
+## 2025 Competition Sponsors
+
+Sponsors coming soon!
